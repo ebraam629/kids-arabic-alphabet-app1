@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "letter": "أ",
+    "image_url": "http://localhost:3000/images/أ.png",
+    "audio_url": "http://localhost:3000/audio/أ.mp3",
+    "examples": [
+      {
+        "word": "طياره",
+        "image_url": "http://localhost:3000/images/طياره.png",
+        "audio_url": "http://localhost:3000/sounds/طياره.mp3"
+      },
+      {
+        "word": "ant",
+        "image_url": "http://localhost:3000/images/ant.png",
+        "audio_url": "http://localhost:3000/sounds/ant.mp3"
+      },
+      {
+        "word": "apple",
+        "image_url": "http://localhost:3000/images/apple.png",
+        "audio_url": "http://localhost:3000/sounds/apple.mp3"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "letter": "B",
+    "image_url": "http://localhost:3000/images/b.png",
+    "audio_url": "http://localhost:3000/audio/b.mp3",
+    "examples": [
+      {
+        "word": "ball",
+        "image_url": "http://localhost:3000/images/ball.png",
+        "audio_url": "http://localhost:3000/sounds/ball.mp3"
+      },
+      {
+        "word": "bicycle",
+        "image_url": "http://localhost:3000/images/bicycle.png",
+        "audio_url": "http://localhost:3000/sounds/bicycle.mp3"
+      },
+      {
+        "word": "bat",
+        "image_url": "http://localhost:3000/images/bat.png",
+        "audio_url": "http://localhost:3000/sounds/bat.mp3"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "letter": "C",
+    "image_url": "http://localhost:3000/images/c.png",
+    "audio_url": "http://localhost:3000/audio/c.mp3",
+    "examples": [
+      {
+        "word": "cat",
+        "image_url": "http://localhost:3000/images/cat.png",
+        "audio_url": "http://localhost:3000/sounds/cat.mp3"
+      },
+      {
+        "word": "cup",
+        "image_url": "http://localhost:3000/images/cup.png",
+        "audio_url": "http://localhost:3000/sounds/cup.mp3"
+      },
+      {
+        "word": "cake",
+        "image_url": "http://localhost:3000/images/cake.png",
+        "audio_url": "http://localhost:3000/sounds/cake.mp3"
+      }
+    ]
+  }
+]
